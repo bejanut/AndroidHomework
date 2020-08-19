@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+    <string name="action_information">Information</string>
+    <string name="action_toast">Toast</string>
+    <string name="AlertDialog_Message">This is our first homework, in which we try to use some of the
+    features, we have learned about</string>
+    <string name="AlertDialog_Title">First Homework</string>
+    <string name="PossitiveMessage">Thank You for your understanding!</string>
+    <string name="NeggativeMessage">Pease read our message again</string>
+    <string name="NegativeButton">I dont get it</string>
+    <string name="PositiveButton">I understand</string>
+    <string name="title_activity_first_descendant">FirstDescendantActivity</string>
+    <string name="title_activity_second_descendant">SecondDescendantActivity</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="Drawer_header_text">This is my mighty app navigation drawer</string>
+    <string name="Drawer_description">Smiley Guy</string>
+    <string name="firstrb">FirstRB</string>
+    <string name="secondrb">SecondRB</string>
+    <string name="thirdrb">ThirdRB</string>
+    <string name="frist_cb">Frist CB</string>
+    <string name="second_cb">Second CB</string>
+    <string name="Toggle_off">Off</string>
+    <string name="ToggleOn">On</string>
+    <string name="EditTextHint">Enter Your Text Here</string>
+    <string name="save_button">Save</string>
+    <string name="SnackbarText">You have touched the happy face and opened a SnackBar</string>
+    <string name="FirstActButton">Go To Sibling Activity</string>
+    <string name="NothingButton">I Do Nothing</string>
+    <string name="start1">Start Descendant 1</string>
+    <string name="start2">Start Descendant 2</string>
+    <string name="external">External Activities</string>
+    <string name="maps">Start Google Maps</string>
+
+</resources>

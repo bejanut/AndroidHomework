@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tema1.MainActivity">
+    <item
+        android:id="@+id/action_information"
+        android:orderInCategory="100"
+        android:title="@string/action_information"
+        android:icon="@drawable/ic_action_information"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_toast"
+        android:orderInCategory="200"
+        android:title="@string/action_toast"
+        android:icon="@drawable/ic_action_toast"
+        app:showAsAction="never" />
+</menu>
